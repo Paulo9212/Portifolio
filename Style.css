@@ -409,6 +409,8 @@ body {
 /* - Contato - */
 #contato {
   background-color: #0B0A0A;
+  margin-bottom: 9px;
+  height: 300px;
 }
 #contato h1 {
   font-size: 90px;
